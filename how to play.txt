@@ -1,0 +1,7 @@
+How to play 
+
+-- New Draw or F2 or ( File -> New Game ) will begin new game and reset the score .
+-- If you want to Undo press Ctrl + Z or ( File -> Undo ) .
+-- when you want to paly a card select it by pressing on it using mouse then select the
+   cards you want to get them from table cards then press ok button .
+-- The 7 daimon card and jack cards collect all the cards on thae table .
